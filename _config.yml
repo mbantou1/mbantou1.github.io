@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "agro fouta toro." 
+title                    : "Agro Fouta Toro" 
 title_separator          : "-"
 name                     : &name "Salif Baydal Ba"
 description              : &description "Description de la ferme"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -33,14 +33,14 @@ author:
   email            : "email here" 
 
   # Academic websites
-  academia         : # URL
+  Article de Corps de La paix         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  
   researchgate     : # URL
   scopus           : # URL
 
@@ -48,14 +48,14 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "mbantou1"
+ 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
   bluesky          :  # Replace this with you Bluesky username
-  facebook         : "username"
+ 
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -101,7 +101,7 @@ comments:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
+
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
